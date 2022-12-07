@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/-LUjm9oNzCIxA_7ljXw9GlDZCvmcV6N1R_sGQaBusKA/rs:fit:840:375:1/g:ce/aHR0cHM6Ly9ibG9n/LmltYXJ0aWN1cy5v/cmcvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDUvY28uZ2lm.gif)](https://rohitchilhorkar.github.io/rdc07.github.io/)
+[![MasterHead]https://imgs.search.brave.com/kOCnPgZRWNMekMXsKb1zSPto0rEvHFKsM4bYsfYs07c/rs:fit:480:141:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvd2d1c2Fj/ejd3dVVPay9naXBo/eS5naWY.gif)](https://rohitchilhorkar.github.io/rdc07.github.io/)
 <h1 align="center">Hi 👋, I'm Rohit Chilhorkar</h1>
 <h3 align="center">A passionate coder from India.</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif" style="border-radius: 20px;">
