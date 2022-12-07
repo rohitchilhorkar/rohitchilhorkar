@@ -1,4 +1,4 @@
-[![MasterHead](https://search.brave.com/images?q=animated+baner+for+web+development&img=65)](https://rohitchilhorkar.github.io/rdc07.github.io/)
+[![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)](https://rohitchilhorkar.github.io/rdc07.github.io/)
 <h1 align="center">Hi 👋, I'm Rohit Chilhorkar</h1>
 <h3 align="center">A passionate coder from India.</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif" style="border-radius: 20px;">
