@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rdchilhorkar@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/lzK03](shorturl.at/lzK03)
+- 📄 Know about my experiences [shorturl.at/lzK03](https://rohitchilhorkar.github.io/rdc07.github.io/)
 
 - ⚡ Fun fact **I like to read books.**
 
