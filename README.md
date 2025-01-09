@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif" style="border-radius: 20px;">
 
-- 🔭 I’m currently working on **Weatherify** and building cloud-based solutions.
+- 🔭 I’m currently building cloud-based solutions and exploring cloud technologies.
 
 - 🌱 I’m currently learning **Full Stack Web Development**, **AWS**, and **DevOps**.
 
@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohit-chilhorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit chilhorkar" height="30" width="40" /></a>
 <a href="https://fb.com/rohit.chilhorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit chilhorkar" height="30" width="40" /></a>
-<a href="https://instagram.com/r.d.c.0.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.d.c.0.7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit-chilhorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit chilhorkar" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit.chilhorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.d.c.0.7" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rohitchilhorkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit chilhorkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
