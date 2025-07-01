@@ -1,17 +1,19 @@
 [![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)](https://rohitchilhorkar.github.io/rdc07.github.io/)
 <h1 align="center">Hi 👋, I'm Rohit Chilhorkar</h1>
-<h3 align="center">🚀 Cloud-Crafting Software Engineer | DevOps Enthusiast | India 🇮🇳</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Crafter | Automation Aficionado | India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif" style="border-radius: 20px;">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px;">
 
-- 🔭 Currently building **cloud-native solutions** on AWS and automating infrastructure like it's second nature.  
-- 🧠 Actively learning and working with **Full Stack Development**, **DevOps**, and **Cloud Architecture**.  
-- 💬 Talk to me about: **Java**, **Python**, **DSA**, **Kubernetes**, **Ansible**, **Terraform**, and **CI/CD pipelines**.  
-- 🚀 DevOps toolbelt: ArgoCD, Helm, Vault, Docker, GitLab CI, and friends.  
-- 🧰 Obsessed with: **clean automation**, **blue-green deployments**, and **zero-downtime rollouts**.  
-- 📫 Reach out: **rdchilhorkar@gmail.com**  
-- 🌐 Peek into my work: [Click me then!](https://rohitchilhorkar.github.io/rdc07.github.io/)  
-- ⚡ Fun fact: I debug in my dreams and optimize in my coffee breaks. ☕  
+- 🔭 I’m currently working as a **Software Engineer @ Siemens Digital Industries (via Pratiti Technologies)**.  
+- 🛠️ I specialize in **DevOps**, **SRE**, and **Cloud Infrastructure Automation**.  
+- 🌩️ Experienced with **AWS (EC2, RDS, S3, IAM, Lambda)** and IaC tools like **Terraform** & **Ansible**.  
+- 🧰 I live and breathe automation: Blue-Green Deployments, Zero-Downtime Upgrades, Vault Integration, and Cost Optimization.  
+- 🧪 Built utilities that saved 60% time, reduced AWS costs by 40%, and improved test coverage to 80%+ as a Quality Coach.  
+- 🚀 Currently targeting DevOps/SRE roles at product-based companies with 17+ LPA, remote/hybrid culture & solid growth.  
+- 🎯 Certs: **AWS Cloud Practitioner**, preparing for **AWS Solutions Architect Associate**.  
+- 💬 Ask me about: Kubernetes, ArgoCD, Ansible, Terraform, CI/CD, Python, GitLab CI, Monitoring, and Scaling Microservices.  
+- 📫 Drop a ping: **rdchilhorkar@gmail.com**  
+- 🌐 Portfolio: [rohitchilhorkar.github.io](https://rohitchilhorkar.github.io/rdc07.github.io/)  
 
 ---
 
@@ -20,32 +22,59 @@
   <a href="https://linkedin.com/in/rohit-chilhorkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/rohit.chilhorkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://leetcode.com/u/rohitchilhorkar/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rohit.chilhorkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/rohitchilhorkar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🧠 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"> <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40"/> </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
+<h3 align="left">⚒️ Tools & Technologies:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="ArgoCD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
+  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40" height="40" alt="Vault"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</p>
+
+---
+
+<h3 align="left">📌 Projects That Speak for Themselves:</h3>
+
+- 🧬 **EFS Restore Automation**  
+  Automated restore and mount of AWS EFS backups with Vault-authenticated dynamic credentials, async job polling, and cleanup—end-to-end automation using Ansible & Python.
+
+- 🛰️ **Blue-Green Deployments for SaaS**  
+  Built a seamless zero-downtime upgrade mechanism for Teamcenter X (SaaS) on AWS using EC2, RDS, S3, Ansible, and shell/Python scripts.
+
+- 📊 **CostTrackr**  
+  Real-time AWS cost monitoring dashboard that autoschedules stop/start of cloud infra—cut idle cost by 30%.
+
+- ♻️ **Vault + AWS Lambda + Teams**  
+  Automated pipeline status updates on Microsoft Teams using Vault, Lambda, and Ansible Tower webhooks.
+
+---
+
+<h3 align="left">🏅 Achievements:</h3>
+
+- 🧠 Solved 300+ problems on Leetcode, GFG, and Hackerrank.  
+- 🥇 1st Rank in Code-e-Fiesta coding competition.  
+- ✍️ Blogged on System Design, Scalability, and Cloud-native patterns.
+
+---
+
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdc07&show_icons=true&theme=tokyonight" alt="Rohit's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdc07&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
