@@ -1,17 +1,16 @@
 [![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)](https://rohitchilhorkar.github.io/rdc07.github.io/)
 <h1 align="center">Hi 👋, I'm Rohit Chilhorkar</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Crafter | Automation Aficionado | India 🇮🇳</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Crafter | Automation | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px;">
 
-- 🔭 I’m currently working as a **Software Engineer @ Siemens Digital Industries (via Pratiti Technologies)**.  
+- 🔭 I’m currently working as a **DevOps Engineer @ Siemens Digital Industries (via Pratiti Technologies)**.  
 - 🛠️ I specialize in **DevOps**, **SRE**, and **Cloud Infrastructure Automation**.  
-- 🌩️ Experienced with **AWS (EC2, RDS, S3, IAM, Lambda)** and IaC tools like **Terraform** & **Ansible**.  
+- 🌩️ Experienced with **AWS (EC2, RDS, VPC, DynamoDB, S3, IAM, Lambda)** and IaC tools like **Terraform** & **Ansible**.  
 - 🧰 I live and breathe automation: Blue-Green Deployments, Zero-Downtime Upgrades, Vault Integration, and Cost Optimization.  
-- 🧪 Built utilities that saved 60% time, reduced AWS costs by 40%, and improved test coverage to 80%+ as a Quality Coach.  
-- 🚀 Currently targeting DevOps/SRE roles at product-based companies with 17+ LPA, remote/hybrid culture & solid growth.  
+- 🧪 Built utilities that saved 60% time, reduced AWS costs by 40%, and improved test coverage to 80%+ as a Quality Coach.   
 - 🎯 Certs: **AWS Cloud Practitioner**, preparing for **AWS Solutions Architect Associate**.  
-- 💬 Ask me about: Kubernetes, ArgoCD, Ansible, Terraform, CI/CD, Python, GitLab CI, Monitoring, and Scaling Microservices.  
+- 💬 Ask me about: AWS, Kubernetes, ArgoCD, Ansible, Terraform, CI/CD, Python, GitLab CI, Monitoring, and Scaling Microservices.  
 - 📫 Drop a ping: **rdchilhorkar@gmail.com**  
 - 🌐 Portfolio: [rohitchilhorkar.github.io](https://rohitchilhorkar.github.io/rdc07.github.io/)  
 
@@ -52,13 +51,13 @@
 <h3 align="left">📌 Projects That Speak for Themselves:</h3>
 
 - 🧬 **EFS Restore Automation**  
-  Automated restore and mount of AWS EFS backups with Vault-authenticated dynamic credentials, async job polling, and cleanup—end-to-end automation using Ansible & Python.
+  Automated restore and mount of AWS EFS backups with Vault-authenticated dynamic credentials, async job polling, and cleanup end-to-end automation using Ansible & Python.
 
 - 🛰️ **Blue-Green Deployments for SaaS**  
   Built a seamless zero-downtime upgrade mechanism for Teamcenter X (SaaS) on AWS using EC2, RDS, S3, Ansible, and shell/Python scripts.
 
 - 📊 **CostTrackr**  
-  Real-time AWS cost monitoring dashboard that autoschedules stop/start of cloud infra—cut idle cost by 30%.
+  Real-time AWS cost monitoring dashboard that autoschedules stop/start of cloud infra cut idle cost by 30%.
 
 - ♻️ **Vault + AWS Lambda + Teams**  
   Automated pipeline status updates on Microsoft Teams using Vault, Lambda, and Ansible Tower webhooks.
