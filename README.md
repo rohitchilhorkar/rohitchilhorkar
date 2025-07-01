@@ -40,10 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="ArgoCD"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
-  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40" height="40" alt="Vault"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
 </p>
 
 ---
@@ -70,10 +67,4 @@
 - 🥇 1st Rank in Code-e-Fiesta coding competition.  
 - ✍️ Blogged on System Design, Scalability, and Cloud-native patterns.
 
----
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdc07&show_icons=true&theme=tokyonight" alt="Rohit's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdc07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
