@@ -12,7 +12,7 @@
 - 🎯 Certs: **AWS Cloud Practitioner**, preparing for **AWS Solutions Architect Associate**.  
 - 💬 Ask me about: AWS, Kubernetes, ArgoCD, Ansible, Terraform, CI/CD, Python, GitLab CI, Monitoring, and Scaling Microservices.  
 - 📫 Drop a ping: **rdchilhorkar@gmail.com**  
-- 🌐 Portfolio: [Click here to know me]([url](https://rohit-chilhorkar.netlify.app/))
+- 🌐 Portfolio: [Click here to know me]([https://rohit-chilhorkar.netlify.app/])
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
