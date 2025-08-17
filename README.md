@@ -6,14 +6,13 @@
 
 - 🔭 I’m currently working as a **DevOps Engineer @ Siemens Digital Industries (via Pratiti Technologies)**.  
 - 🛠️ I specialize in **DevOps**, **SRE**, and **Cloud Infrastructure Automation**.  
-- 🌩️ Experienced with **AWS (EC2, RDS, VPC, DynamoDB, S3, IAM, Lambda)** and IaC tools like **Terraform** & **Ansible**.  
+- 🌩️ Experienced with **AWS**, Kubernetes, Python, and IaC tools like **Terraform** & **Ansible**.  
 - 🧰 I live and breathe automation: Blue-Green Deployments, Zero-Downtime Upgrades, Vault Integration, and Cost Optimization.  
 - 🧪 Built utilities that saved 60% time, reduced AWS costs by 40%, and improved test coverage to 80%+ as a Quality Coach.   
 - 🎯 Certs: **AWS Cloud Practitioner**, preparing for **AWS Solutions Architect Associate**.  
 - 💬 Ask me about: AWS, Kubernetes, ArgoCD, Ansible, Terraform, CI/CD, Python, GitLab CI, Monitoring, and Scaling Microservices.  
 - 📫 Drop a ping: **rdchilhorkar@gmail.com**  
-- 🌐 Portfolio: [rohitchilhorkar.github.io](https://rohitchilhorkar.github.io/rdc07.github.io/)  
-
+- 🌐 Portfolio: [Click here to know me]([url](https://rohit-chilhorkar.netlify.app/))
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
