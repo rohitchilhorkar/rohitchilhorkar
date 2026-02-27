@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px;">
 
-- 🔭 I’m currently working as a **DevOps Engineer @ Siemens Digital Industries (via Pratiti Technologies)**.  
+- 🔭 I’m currently working as a **DevOps Engineer @ Siemens Digital Industries**.  
 - 🛠️ I specialize in **DevOps**, **SRE**, and **Cloud Infrastructure Automation**.  
 - 🌩️ Experienced with **AWS**, Kubernetes, Python, and IaC tools like **Terraform** & **Ansible**.  
 - 🧰 I live and breathe automation: Blue-Green Deployments, Zero-Downtime Upgrades, Vault Integration, and Cost Optimization.  
